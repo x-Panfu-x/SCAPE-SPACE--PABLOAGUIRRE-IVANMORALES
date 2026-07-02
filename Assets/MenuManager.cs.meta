@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd5f369fa40a0084794f93432bce0893
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {fileID: 24100000, guid: 842d091dbe1fd304fb1fab1bfeb8ad0e, type: 2}
+  - sliderMusica: {instanceID: 0}
+  - sliderSonido: {instanceID: 0}
+  - sliderSensibilidad: {instanceID: 0}
+  - panelPrincipal: {instanceID: 0}
+  - panelOpciones: {instanceID: 0}
+  - panelControles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
