@@ -17,10 +17,6 @@ El juego está desplegado y listo para ser probado. Puedes acceder a la última 
 
 > ⚠️ **Nota importante:** Este repositorio de GitHub contiene la estructura base, scripts y configuraciones principales del proyecto. Debido al peso de los assets comerciales, librerías pesadas y optimización de espacio, el proyecto completo de desarrollo se gestiona activamente de forma privada a través de **Unity Hub / Unity Version Control**.
 
-### Estructura del proyecto en este repo:
-*   📁 **Assets:** Scripts principales, lógicas de juego y componentes esenciales desarrollados por nosotros.
-*   📁 **ProjectSettings / UserSettings:** Configuraciones globales del proyecto de Unity para asegurar la compatibilidad de las escenas.
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
